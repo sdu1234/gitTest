@@ -6,5 +6,6 @@ public class GitDemo {
         System.out.println("hello Git222 !!!");
         System.out.println("hello Git444 !!!");
         System.out.println("master ok???");
+        System.out.println("hot-fix ok???");
     }
 }
